@@ -12,7 +12,7 @@ Ce projet est une application de quiz en Python utilisant des classes et des mod
 ## Installation
 1. Clonez ce dépôt sur votre machine :
    ```bash
-   git clone <URL>
+   git clone https://github.com/akim-achbairy/courspython.git
    ```
 2. Accédez au répertoire :
    ```bash
