@@ -10,7 +10,7 @@ Ce projet offre un générateur de mots de passe sécurisés ainsi qu'un génér
 ## Organisation du Projet
 - `main.py` : Point de départ pour le lancement du programme.
 - `generator_pwd.py` : Créateur de mots de passe.
-- `generator_passphrase.py` : Créateur de phrases de passe basé sur Diceware.
+- `generator_passphrase.py` : Créateur de passphrases basé sur Diceware.
 - `pwd_tester.py` : Outil d'évaluation de mots de passe.
 - `data_lancee.py` : Dictionnaire Diceware intégral (7776 combinaisons).
 
